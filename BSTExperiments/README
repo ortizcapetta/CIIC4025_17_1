@@ -1,4 +1,3 @@
 Homework #4 of the Algorithm Design course
 Generated random BSTs with the help of the binarytree library.
-Determined which of the randomly generated BSTs were RB, AVL and gave out a list of heights to further analyze
-the way BSTs behave.
+Determined which of the randomly generated BSTs were RB, AVL and gave out a list of heights to further analyze the way BSTs behave.
